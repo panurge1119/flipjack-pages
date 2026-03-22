@@ -65,6 +65,6 @@ Whether music is playing in the background during dinner, filling the room at a 
 
 For support, bug reports, or feature requests, please contact:
 
-**Email:** your-email@example.com
+**Email:** support@flipjack.us
 
 Developer: Jeremy Hines
